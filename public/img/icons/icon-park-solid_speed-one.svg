@@ -1,0 +1,15 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-park-solid:speed-one">
+<mask id="mask0_1_309" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="40" height="35">
+<g id="svgIDa">
+<g id="Group">
+<path id="Vector" d="M25.2473 15.6492C25.2473 15.6492 22.5556 23.2342 21.2773 24.5583C20.6602 25.1806 19.8228 25.5348 18.9464 25.5443C18.0701 25.5537 17.2253 25.2177 16.5949 24.6089C15.9645 24 15.5992 23.1674 15.5781 22.2913C15.557 21.4151 15.8819 20.5659 16.4823 19.9275C17.7606 18.6025 25.2473 15.6492 25.2473 15.6492Z" fill="white" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+<path id="Vector_2" d="M32.375 32.375C34.0022 30.7515 35.2926 28.8225 36.1721 26.6988C37.0516 24.5751 37.5028 22.2986 37.5 20C37.5 10.335 29.665 2.5 20 2.5C10.335 2.5 2.5 10.335 2.5 20C2.5 24.8325 4.45833 29.2075 7.625 32.375M20 3.33333V6.66667M32.3708 9.285L29.7808 11.3825M35.435 22.6942L32.1875 21.9442M4.56417 22.6942L7.8125 21.9442M7.62917 9.285L10.2192 11.3825" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_1_309)">
+<path id="Vector_3" d="M0 0H40V40H0V0Z" fill="#4093FF"/>
+</g>
+</g>
+</svg>

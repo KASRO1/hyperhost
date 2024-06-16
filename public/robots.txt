@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cdn-cgi/l/email-protection
+Disallow: *?func=
+Disallow: *?category=
+
+Sitemap: https://beta.hyper.hosting/sitemap.xml
